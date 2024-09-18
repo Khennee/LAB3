@@ -2,8 +2,9 @@ def HelloWorld() :
     print("Hello, World!")
 
 def YooHooWorld() : 
-    lets say this is a bug!
-    print("YooHoo, World!")
+    #bug fixed! yey?
+    print("bug fixed!!")
 
 def HiWorld() : 
     print("Hi, World!")
+
