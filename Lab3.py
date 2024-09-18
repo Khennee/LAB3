@@ -10,3 +10,6 @@ def HiWorld() :
 
 def BranchOneFeature(): 
     print("One Branch")
+
+def BranchTwoFeature(): 
+    print("Two Branch")
